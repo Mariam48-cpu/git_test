@@ -120,3 +120,8 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+
+void mariam (){
+  print("mariam");
+}
