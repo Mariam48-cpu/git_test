@@ -136,3 +136,7 @@ void login(){
 
   // hi it's alaa
 }
+
+void mariam (){
+  print("mariam");
+}
